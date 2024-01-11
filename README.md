@@ -1,1 +1,1 @@
-# react-native-test-2
+# react-native-test-2 sample
